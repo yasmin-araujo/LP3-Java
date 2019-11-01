@@ -1,0 +1,44 @@
+6 - 
+	Vol: 3
+	Vol: 10
+
+7 -
+	Encapsulamento é a prática quase obrigatória de proteger seus atributos com private. É a ideia de "esconder" todos os atributos e funcionamento dos métodos. Facilita mudanças, que terão de ser feitas em apenas um lugar.
+
+8 -
+	Pois retira a eficacia da utilização de atributos private.
+
+9 -
+	Variavel:
+	Objeto: minhaConta
+	Classe: Conta
+	
+LISTA 2
+
+2- 
+	Animal super criado
+	Animal aquatico criado
+	Animal super criado
+	Animal terrestre criado
+	Alimento predileto das girafas: folhas
+	Habitat das turtles: oceano
+	Sexo da turtle: femea
+	Sexo da giraffe: macho
+	Alimento predileto das girafas: copa da arvore
+
+b-	Alimento da turtle:
+	Alimento da girraffe: folhas
+
+c-	Sim pois não existe construtor com apenas um paramentro nesse programa
+
+d-	Para usar uma função que pertence a uma classe super
+
+e-	Auxiliou para que não seja necessário copiar e colar o mesmo código várias vezes
+
+3-	Feline, Canine e Animal
+
+b-	Tiger, Lion, Cat, Hippo, Dog, Wolf, Feline e Canine
+
+c-	Nenhuma
+
+d-	Todas que forem subclasses
